@@ -11,17 +11,16 @@ The best free minecraft client for closet cheating based in Raven b+.
 </p>
 <br>
 
------
-### Discord & Donwload
-- [Click me](https://discord.gg/dzykVSjFhY)
-- No Forge Version: [Here](https://github.com/Cvrwed/Haru-MCP)
------
-
-### Setup
+### Bulid
 1. Download the src.
 2. Put the src in some random folder
 3. Open cmd in the folder's path and type ``gradlew -Dorg.gradle.jvmargs=-Xmx2096m setupDecompWorkspace && gradlew idea`` or ``gradlew -Dorg.gradle.jvmargs=-Xmx2096m setupDecompWorkspace && gradlew eclipse``
 4. Open the project
+
+### Install
+1.Install a 1.8.9 Forge.
+2.Put jar file to mods floder.
+3.Open the game.
 
 -----
   
